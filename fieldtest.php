@@ -1,5 +1,7 @@
 
+<!-- Internet programming CAT -->
 <!--PHP script for checking validity of data entered in input text field in a form
+GitHub link to my file: Aligo-tlc/Testing-form-details
 Written by Emmanuel Guya Alison -->
 <html>
 <head>
